@@ -3,6 +3,8 @@
 
 #### I’m a Software Developer focused on Java and interested in React and typescript. 
 
+####
+
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
@@ -16,7 +18,8 @@
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 
 
-#### 📫  How to reach me: Bruno.a.jorge@gmail.com
+#### 📫  Bruno.a.jorge@gmail.com
+#### ![Heroku](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) https://www.linkedin.com/in/brunoaguiarjorge/
 
 #### Fun fact: I am a marathoner and love running! the fun fact is: one of my goals in life is to run an Iron Man... 
 
