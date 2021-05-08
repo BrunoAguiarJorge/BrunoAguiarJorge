@@ -24,12 +24,8 @@
 
 
 
-
-
-
-
 #### 📫  Bruno.a.jorge@gmail.com
-#### ![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) https://www.linkedin.com/in/brunoaguiarjorge/
 
-#### Fun fact: I am a marathoner and love running! the fun fact is: one of my goals in life is to run an Iron Man... 
+https://www.linkedin.com/in/brunoaguiarjorge/
+
 
