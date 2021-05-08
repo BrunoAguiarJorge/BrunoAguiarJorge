@@ -3,7 +3,7 @@
 
 #### I’m a Software Developer focused on Java and interested in React and typescript. 
 
-https://img.shields.io/github/followers/brunoaguiarjorge?style=flat-square
+![GitHub followers](https://img.shields.io/github/followers/brunoaguiarjorge?style=flat-square)
 
 #### 📫  How to reach me: Bruno.a.jorge@gmail.com
 
