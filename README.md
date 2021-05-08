@@ -1,7 +1,9 @@
 ### Hi there 👋 I am Bruno!
 
 
-#### I’m currently learning full stack development at DevSuperior. focused on Java , spring Boot, typeScrypt and ReactJS.
+#### I’m a Software Developer focused on Java and interested in React and typescript. 
+
+https://img.shields.io/github/followers/brunoaguiarjorge?style=flat-square
 
 #### 📫  How to reach me: Bruno.a.jorge@gmail.com
 
