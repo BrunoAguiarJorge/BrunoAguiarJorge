@@ -5,6 +5,12 @@
 
 ![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![image]({BadgeURLHere})
+![image]({BadgeURLHere})
+![image]({BadgeURLHere})
+![image]({BadgeURLHere})
+![image]({BadgeURLHere})
+
 #### 📫  How to reach me: Bruno.a.jorge@gmail.com
 
 #### Fun fact: I am a marathoner and love running! the fun fact is: one of my goals in life is to run an Iron Man... 
