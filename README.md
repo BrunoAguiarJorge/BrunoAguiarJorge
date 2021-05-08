@@ -26,6 +26,7 @@
 
 #### 📫  Bruno.a.jorge@gmail.com
 
-https://www.linkedin.com/in/brunoaguiarjorge/
+Bruno's -> [Linkedin](https://www.linkedin.com/in/brunoaguiarjorge/)
+
 
 
