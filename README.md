@@ -1,4 +1,4 @@
-### Hi there 👋 I am Bruno!
+### Hi there 👋 I am Bruno! 💻
 
 
 #### I’m a Software Developer focused on Java and currently learning React and typescript. 
