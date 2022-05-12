@@ -1,7 +1,7 @@
 ### Hi there 👋 I am Bruno! 💻
 
 
-#### I’m a Software Developer focused on Java and currently learning React and typescript. 
+#### I’m a Bilingual (English & Portuguese) profissional with a vast experience in Business Management, eager for a career change, I hold a degree in Information Systems and I am currently training as a Junior Software Developer in a professional coding bootcamp.
 
 ####
 
